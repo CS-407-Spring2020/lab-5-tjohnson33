@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        SharedPreferences loginCheck= getSharedPreferences("c.sakshilab5", Context.MODE_PRIVATE);
+        SharedPreferences loginCheck= getSharedPreferences("c.sakshi.lab5", Context.MODE_PRIVATE);
 
 //        String usernameKey = "username";
 
